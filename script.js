@@ -163,7 +163,7 @@ const translations = {
 
     "hero.greeting":    "Hi, I'm",
     "hero.role":        "Software Developer",
-    "hero.tagline":     "I build solutions that create impact. <br>I learn every day. I reinvent myself when needed.",
+    "hero.tagline":     "I build solutions that create impact.",
     "hero.cta.projects": "See my projects",
     "hero.cta.contact":  "Contact me",
     "hero.scroll":       "Explore",
@@ -182,31 +182,26 @@ const translations = {
     "about.v3.desc":  "Always updating my skills to bring greater value to projects.",
     "about.tech":      "Technologies I work with",
 
-    "tech.git":        "Git & GitHub",
-    "tech.responsive": "Responsive Design",
-    "tech.animations": "CSS Animations",
-
     "offer.tag":    "What I offer",
     "offer.title":  "What I can do<br>for your team",
-    "offer.s1.title": "Frontend Web Development",
-    "offer.s1.desc":  "Clean, accessible, and responsive interfaces. I build with semantic HTML, modern CSS and vanilla JavaScript to ensure performance and compatibility.",
-    "offer.s2.title": "Animations & UX",
-    "offer.s2.desc":  "Smooth and elegant user experiences through CSS animations, transitions and microinteractions that make a difference.",
-    "offer.s3.title": "Responsive Design",
-    "offer.s3.desc":  "CSS Grid and Flexbox layouts that adapt perfectly to any device: mobile, tablet or desktop.",
-    "offer.s4.title": "Clean Code",
-    "offer.s4.desc":  "I write readable, organized code following best practices. Documented so your team can understand and maintain it easily.",
+    "offer.s1.title": "Development",
+    "offer.s1.desc":  "Creation of functional solutions and applications focused on solving real needs.",
+    "offer.s2.title": "Databases",
+    "offer.s2.desc":  "Design and management of databases to organize and optimize information.",
+    "offer.s3.title": "Software and Logic",
+    "offer.s3.desc":  "Problem solving through programming logic and efficient development.",
+    "offer.s4.title": "Teamwork",
+    "offer.s4.desc":  "Effective collaboration in development environments, contributing solutions and continuous learning.",
 
     "projects.tag":   "Projects",
     "projects.title": "My work in action",
-    "proj1.title":    "Personal Portfolio",
-    "proj1.desc":     "This very portfolio — designed and developed from scratch with semantic HTML, CSS Grid/Flex, animations and bilingual support. Responsive and SEO optimized.",
-    "proj2.title":    "Landing Page — Class Project",
-    "proj2.desc":     "Responsive landing page developed as an academic project. Implements mobile-first design, CSS variables and HTML5 semantics.",
-    "proj3.title":    "Components with Animations",
-    "proj3.desc":     "UI component library with advanced CSS animations: loaders, transitions, hover effects and microinteractions. Showcasing modern CSS possibilities.",
+    "proj1.title":    "Real Estate Management System",
+    "proj1.desc":     "Relational database designed to manage a real estate portfolio, including properties, clients, contracts, and payments. Built with role-based security, automation through triggers and events, and optimized using indexes and partitioning.",
+    "proj2.title":    "LMS Development Project",
+    "proj2.desc":     "Educational platform that allows management of teachers, courses, modules, lessons, and administrators. Data is stored in localStorage, without the need for a server.",
+    "proj3.title":    "Bank Account Management System",
+    "proj3.desc":     "This project implements a bank account management system in Python, with data stored in JSON format. It allows creating accounts, making deposits and withdrawals, requesting loans, paying installments, and canceling products or entire accounts.",
     "proj.live":      "View project →",
-    "proj.code":      "Code",
 
     "mission.tag":   "Purpose",
     "mission.title": "Mission & Vision",
@@ -225,9 +220,9 @@ const translations = {
     "contact.subtitle": "Looking for a committed developer eager to grow? I'm available.",
     "contact.email.label": "Email",
     "contact.cv.label": "Resume",
-    "contact.cv.value": "Download CV",
+    "contact.cv.value": "View CV",
 
-    "footer.copy": "© 2025 Sahiam Valentina Esteban. Designed & developed with 💚"
+    "footer.copy": "© 2026 Sahiam Valentina Esteban. Designed & developed with 🩶"
   }
 };
 
