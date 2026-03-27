@@ -151,7 +151,7 @@ const translations = {
     "contact.cv.label": "Hoja de vida",
     "contact.cv.value": "Ver CV",
 
-    "footer.copy": "© 2025 Sahiam Valentina Esteban. Diseñado y desarrollado con 💚"
+    "footer.copy": "© 2026 Sahiam Valentina Esteban. Diseñado y desarrollado con 🩶"
   },
 
   en: {
